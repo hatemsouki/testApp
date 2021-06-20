@@ -1,6 +1,6 @@
 <?php
 
-class TodoTest extends PHPUnit_Framework_TestCase
+class TodoTest extends PHPUnit\Framework\TestCase
 {
     private $_pdo = null;
 

@@ -1,6 +1,6 @@
 <?php
 
-class InterfaceTest extends PHPUnit_Extensions_SeleniumTestCase
+class InterfaceTest extends PHPUnit_Extensions_Selenium2TestCase
 {
 
     protected function setUp()
